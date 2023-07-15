@@ -1,0 +1,4 @@
+(executable
+ (public_name monoparser)
+ (name main)
+ (libraries monoparser))
